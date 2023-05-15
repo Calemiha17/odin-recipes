@@ -1,0 +1,36 @@
+body {
+    text-align: center;    
+    font-family: Arial, sans-serif;
+    background-color: rgb(83, 113, 136)
+    
+  }
+
+h1 {
+    color:rgb(238, 238, 238);
+    font-size: 50px;
+    background: rgb(203, 178, 121);
+    width: fit-content;
+    margin: auto;
+    border: 12px dotted black;
+  }
+
+a{
+  color: rgb(238, 238, 238);
+}
+img {
+  border: 2px solid black;
+}
+
+.first,
+.second,
+.third {
+  
+    font-size: 18px;
+    width: 200px;
+    height: fit-content;
+    background: rgb(203, 178, 121);
+    margin: auto;
+    border: 2px solid black;
+    padding: 10px;
+}
+

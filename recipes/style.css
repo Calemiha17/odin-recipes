@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(83, 113, 136);
+    text-align: center;
+    }
+
+h1 {
+    color:rgb(238, 238, 238);
+    font-size: 50px;
+    background: rgb(203, 178, 121);
+    width: fit-content;
+    margin: auto;
+    border: 12px double black;
+  }
+
+.sestavine {
+    text-align: left;
+}
+
+#steps .koraki {
+    color: white;
+    text-align: right;
+}
+
+.sestavine-ena {
+    color: white;
+}
+
+div .bottom,
+.bottom {  
+    font-size: 18px;
+    width: 200px;
+    height: fit-content;
+    background: rgb(203, 178, 121);
+    margin: 50px auto;
+    margin-bottom: 20px;
+    border: 2px solid black;
+    padding: 10px;
+    color: rgb(238, 238, 238);
+}
+
